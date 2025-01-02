@@ -24,7 +24,7 @@
 <h3>To play The Zen Of Car, follow these steps:</h3>
 You can play it <b>ONLINE</b> by visiting one of these two links:<br>
 <ul>
-  <li>https://play.unity.com/mg/other/the-zen-of-car-2-0-version <b>(RECOMMENDED)</b></li>
+  <li>https://play.unity.com/en/games/3633ee55-bae7-41da-bee0-087e469eba87/the-zen-of-car-20-version <b>(RECOMMENDED)</b></li>
   <li>https://alexz7000.itch.io/the-zen-of-car</li>
 </ul>
 
